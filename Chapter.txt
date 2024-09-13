@@ -1,2 +1,2 @@
 Hii,I am using the Git-Hub and Git Software to learn about the Storing of the files in the Local Repository.
-Hence we are commiting now.
+Hence we are commiting now in the text file.
